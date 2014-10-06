@@ -1,6 +1,9 @@
 # Description:
 #   Returns a random trivia from https://www.mashape.com/divad12/numbers-1
 #
+# Dependencies:
+#   "unirest": "0.2.7"
+#
 # Configuration:
 #   HUBOT_MASHAPE_NUMBERS_API_KEY - API Key
 #
