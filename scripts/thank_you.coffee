@@ -1,5 +1,6 @@
 # Description:
-#   Hubot responds any thank message politely
+#   Hubot responds any thank message politely. Phrases from:
+#   http://www.macmillandictionary.com/thesaurus-category/british/Ways-of-accepting-someone-s-thanks
 #
 # Dependencies:
 #   None
