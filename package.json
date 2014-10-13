@@ -28,10 +28,10 @@
     "xml2js": "0.1.14",
     "underscore.string": "2.3.0",
     "scraper": "0.0.9",
+    "unirest": "0.2.7",
     "hubot": ">= 2.6.0 < 3.0.0",
     "hubot-scripts": ">= 2.5.0 < 3.0.0",
-    "hubot-slack": "^2.2.0",
-    "unirest": "0.2.7"
+    "hubot-slack": "^2.2.0"
   },
   "engines": {
     "node": ">= 0.8.x",
